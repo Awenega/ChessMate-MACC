@@ -3,9 +3,9 @@
 <br />
 <div align="center">
     <img src="app/src/main/assets/logo.png" alt="ChessMate Logo" height="358" />
-    <h3 align="center"> Project for the course of Mobile Applications and Cloud Computing 2023/2024. </h3>
+    <h3 align="center"> Android application for playing chess  in single player and multiplayer. </h3>
+    <h5 align="center">Uses a deep neural network to scan an image containing a chess board and starts a game with the pieces in the same position as the image</h5>
 </div>
-
 
 # 🏆 Our team:
 ```
